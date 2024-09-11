@@ -24,7 +24,7 @@
     "element-plus": "^2.2.16",
     "nprogress": "^0.2.0",
     "path-browserify": "^1.0.1",
-    "path-to-regexp": "^6.2.0",
+    "path-to-regexp": "^8.0.0",
     "pinia": "^2.0.21",
     "pinia-plugin-persistedstate": "^2.1.1",
     "sass": "^1.54.0",
