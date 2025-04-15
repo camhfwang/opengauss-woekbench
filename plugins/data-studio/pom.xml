@@ -22,12 +22,12 @@
 		<spring-boot.version>2.5.6</spring-boot.version>
 		<spring-brick.version>3.1.0</spring-brick.version>
 		<junit.version>4.13</junit.version>
-		<fastjson.version>1.2.78</fastjson.version>
+		<fastjson.version>1.2.83</fastjson.version>
 		<lombok.version>1.18.24</lombok.version>
 		<hutool.version>5.0.3</hutool.version>
 
 		<es-java-client.version>8.3.3</es-java-client.version>
-		<es-java-client-jackson-databind.version>2.12.3</es-java-client-jackson-databind.version>
+		<es-java-client-jackson-databind.version>2.15.0</es-java-client-jackson-databind.version>
 		<es-java-client-jakarta.version>2.0.1</es-java-client-jakarta.version>
 		<jcraft-jsch.version>0.1.54</jcraft-jsch.version>
 	</properties>
@@ -101,7 +101,7 @@
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>druid-spring-boot-starter</artifactId>
-			<version>1.2.8</version>
+			<version>1.2.21</version>
 		</dependency>
 		<dependency>
 			<groupId>org.postgresql</groupId>
