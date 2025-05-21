@@ -30,7 +30,7 @@
     "sql-formatter": "^8.2.0",
     "uuid": "^8.3.2",
     "vis": "^4.21.0-EOL",
-    "vue": "^3.2.37",
+    "vue": "^3.5.14",
     "vue-grid-layout": "^3.0.0-beta1",
     "vue-i18n": "9",
     "vue-request": "2.0.0-rc.3",
