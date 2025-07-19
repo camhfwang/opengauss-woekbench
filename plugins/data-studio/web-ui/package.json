@@ -31,7 +31,7 @@
     "sql-formatter": "^11.0.2",
     "svg-sprite-loader": "^6.0.11",
     "vue": "^3.2.39",
-    "vue-i18n": "^9.2.2",
+    "vue-i18n": "^9.14.5",
     "vue-router": "^4.0.0-0",
     "vuex": "^4.0.0-0",
     "vxe-table": "^4.3.5"
